@@ -24,7 +24,7 @@ export default function Navbar() {
               GripDigits
             </h1>
             <p className="text-xs text-slate-400">
-              Biometric Intelligence
+              Extending Your Reach
             </p>
           </div>
 
