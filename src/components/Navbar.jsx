@@ -21,7 +21,7 @@ export default function Navbar() {
 
           <div className="leading-tight">
             <h1 className="text-xl font-bold text-white">
-              GripDigits
+              GripDigits Limited
             </h1>
             <p className="text-xs text-slate-400">
               Extending Your Reach
